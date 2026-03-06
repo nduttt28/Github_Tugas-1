@@ -1,2 +1,2 @@
 # Github_Tugas-1
-Tugas ini untuk tugas pertama github
+Tugas ini untuk tugas github
